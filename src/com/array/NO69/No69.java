@@ -13,6 +13,7 @@ public class No69 {
         Solution solution=new No69().new Solution();
         System.out.println(solution.mySqrt(200000));
         System.out.println("hello git");
+        System.out.println("push test");
 
         }
     class Solution {
